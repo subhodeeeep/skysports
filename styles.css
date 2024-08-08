@@ -1,0 +1,13 @@
+body{
+    margin: 0;
+    /* height: 200vh; */
+}
+.main{
+    margin: 0px 0px;
+    height: inherit;
+    width: 100vw;
+}
+.form{
+    margin: 0px;
+    width: 100vh;
+}
